@@ -24,4 +24,4 @@ public class IntEqualityPrinter {
       printEqual(87, 9, 0);    /*  you can 
       printEqual(-87, -9, -0);    call this method 
       printEqual(1, 1, 3);     *\  many times as you want using different values. 
-}
+} 
